@@ -1,4 +1,4 @@
-import java.util.Scanner;
+homeimport java.util.Scanner;
 class Program3 {
     static int[] arr;               //Array declaration
 	public static void main(String[] args) {
