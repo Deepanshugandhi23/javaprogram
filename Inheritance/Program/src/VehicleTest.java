@@ -15,5 +15,10 @@ class VehicleTest{
 						default : v1.displayVehicle();
 						break;
 				}
+
+				rectsngl s[] = new reacran[10];
+				for(if () {
+					s[i] = new rectsngl();
+				})
 		}
 }
